@@ -6,7 +6,7 @@
 
 3) 처음만든 숫자야구게임은 test방에서 before로 설명이 붙어있으며 자바파일도 하나의 클래스안에 각각의 메서드별로 단위테스트 구현하였습니다.
 
-4) rebaseball방과 test방안에 before로 만든 숫자게임코드파일은 자료구조가 들어가지 boolean, for, if, while, array와 같은 기본코드로 구성하였습니다
+4) rebaseball방과 test방안에 before로 만든 숫자게임코드파일은 자료구조가 들어가지 않는 boolean, for, if, while, array와 같은 기본코드로 구성하였습니다
 
 5) reabaseball방과 test방안에 before 숫자게임코드파일은 우선 작동이 되는것을 목표로하여 작성하였습니다.
 
