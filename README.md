@@ -24,4 +24,7 @@
 
 12) before test코드 작성시 클래스별로 @DisplayName을 적용하여 이름을 쉽게 구분하고 @ParameterizedTest를 통한 @MethodSource와 @ValueSource를 사용하여 메서드를 활용 및 값을 넣어서 단위테스트를 진행하였습니다.
 
-13) after에서 test코드 작성시 각각의 메서드를 구현함에 있어 assertThat, stream, assertEquals, 람다를 적용하여 가독성있고 명료하게 사용하고자 단위테스트를 진행하였습니다. 
+13) after에서 test코드 작성시 각각의 메서드를 구현함에 있어 assertThat, stream, assertEquals, 람다를 적용하여 가독성있고 명료하게 사용하고자 단위테스트를 진행하였습니다.
+
+    추가적인 사항은 https://www.notion.so/c67cf49ad02740d6b0fca4dd91ee2900?pvs=4 제 블로그에서 확인 가능합니다.
+   기타 에피소드는 블로그에 정리하여 올리겠습니다. 
